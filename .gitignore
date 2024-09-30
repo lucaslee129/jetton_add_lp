@@ -12,5 +12,8 @@ dist
 # IDEA files
 .idea
 
+# Environment files
+.env
+
 # VIM
 Session.vim
